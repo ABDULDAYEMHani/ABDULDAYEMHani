@@ -1,9 +1,8 @@
-<div align="center" width="50">
+<div align="center">
 
-  <img src="https://github.com/ABDULDAYEMHani/ABDULDAYEMHani/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ABDULDAYEMHani" alt="Hello Coders" width="60%"/> <br>
-  <img src="https://github.com/ABDULDAYEMHani/ABDULDAYEMHani/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/ABDULDAYEMHani" alt="Workspace" width="40%"/><br> 
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ABDULDAYEMHani&style=flat&color=orange&label=PROFILE+VIEWS)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-hani_abduldayem-blue?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hani_abduldayem)
 
 </div>
@@ -24,9 +23,3 @@
 - 🔭 I’m currently learning Flutter & Dart.
 - 💻 I use VS Code and Android Studio for development.
 - 📸 Find me on Instagram: [@hani_abduldayem](https://www.instagram.com/hani_abduldayem)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABDULDAYEMHani&show_icons=true&hide_title=true&count_private=true&theme=radical)
